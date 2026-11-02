@@ -1,4 +1,4 @@
-KOD:
+Code:
 
 SELECT 
     con.contest_id,

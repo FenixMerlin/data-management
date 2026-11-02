@@ -1,4 +1,4 @@
-KOD:
+Code:
 
 SELECT Name 
 FROM STUDENTS 
