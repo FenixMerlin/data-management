@@ -1,0 +1,245 @@
+KOD:
+
+SELECT DISTINCT CITY 
+FROM STATION 
+WHERE ID % 2 = 0;
+
+
+
+OUTPUT:
+
+Kissee Mills
+Loma Mar
+Tipton
+Glencoe
+Chignik Lagoon
+Albany
+Manchester
+Cahone
+Bowdon
+Watkins
+Millville
+Aguanga
+Morenci
+Mccomb
+Gustine
+Delano
+Roy
+Pattonsburg
+Centertown
+Norvell
+Raymondville
+West Hills
+Wickliffe
+Forest Lakes
+Little Rock
+Hampden
+Pine City
+Prince Frederick
+Yazoo City
+Jolon
+Childs
+Shreveport
+Forest
+Sizerock
+Onaway
+Hackleburg
+Bentonville
+Kirkland
+Grosse Pointe
+Busby
+Robertsdale
+Hayfork
+Mcbrides
+Henderson
+Palm Desert
+Benedict
+Oakfield
+Chokio
+Clancy
+Norwood
+Elkton
+Cherry
+Regina
+Pine Bluff
+East Irvine
+Pony
+Franklin
+Amo
+Vulcan
+Prairie Du Rocher
+Delta
+Carver
+Paron
+Greenview
+Cromwell
+Round Pond
+Rockton
+Pheba
+North Berwick
+Oconee
+Grandville
+Richland
+Philipsburg
+Frankfort Heights
+Bono
+Biggsville
+Newton Center
+Crane Lake
+Kismet
+Grayslake
+Bison
+Bellevue
+South Britain
+Rydal
+Lynnville
+Hope
+Andersonville
+Crouseville
+Ledyard
+Eros
+Rantoul
+Glen Carbon
+Mc Henry
+Howard Lake
+Salem
+Sturdivant
+East Haddam
+Eastlake
+Larkspur
+Tarzana
+Grapevine
+Kanorado
+Climax
+Curdsville
+Southport
+Compton
+Rumsey
+Rogers
+Pleasant Grove
+Everton
+Skanee
+Church Creek
+Yellow Pine
+Dumont
+Gales Ferry
+Decatur
+Holbrook
+Sherrill
+Brownsdale
+Peachtree City
+Rocheport
+Clovis
+Heyburn
+Marion Junction
+Randall
+White Horse Beach
+Macy
+Deep River
+Napoleon
+Leavenworth
+Turners Falls
+Delray Beach
+Eustis
+Mineral Point
+Bayville
+North Monmouth
+Harmony
+Beaufort
+Firebrick
+Pico Rivera
+Ludington
+West Baden Springs
+Melber
+Bainbridge
+Ottertail
+Montrose
+Schleswig
+Ermine
+Siler
+Lismore
+Athens
+Eufaula
+Hanscom Afb
+Mosca
+Bennington
+Lottie
+Garland
+Clutier
+Lupton
+Daleville
+Osage City
+Norris
+Saint Paul
+Kirksville
+Bridgton
+Brownstown
+Grand Terrace
+Mesick
+Dryden
+Marine On Saint Croix
+Hayneville
+Cheswold
+Cannonsburg
+Elm Grove
+Atlantic Mine
+Farmington
+Winter Park
+Monroe
+Greens Fork
+Garden City
+New Ross
+Archie
+Norphlet
+Keyes
+Neon
+Calhoun
+Mullan
+Walnut
+Saint Petersburg
+Julian
+Orange Park
+Ludlow
+Palatka
+Ukiah
+Yuma
+Alba
+Zachary
+Montgomery City
+Magnolia
+Dundee
+Baker
+Kenner
+Many
+Seward
+Chilhowee
+Cobalt
+South Haven
+Eskridge
+West Hyannisport
+Ozona
+Healdsburg
+Ravenden Springs
+Kell
+Strasburg
+Five Points
+Norris City
+Coaling
+Orange City
+Effingham
+Greenway
+Shingletown
+Clio
+Yalaha
+Leakesville
+Fort Lupton
+Canton
+Taft
+Knobel
+Bullhead City
+Haverhill
+Middleboro
+Lee
+Mid Florida
+Gorham
+Bass Harbor
